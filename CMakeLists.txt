@@ -98,6 +98,10 @@ set(LEVELDB_BUILD_DEFINES)
 set(LEVELDB_BUILD_LIBRARIES)
 set(LEVELDB_BUILD_PRIVATE_INCLUDES "${LEVEL_DB_DIR}")
 
+if(APPLE)
+    set( ZLIB_LIBRARIES "z" )
+endif()
+
 if( WIN32 )
     message( STATUS "Configuring FCCShares on WIN32")
     set( DB_VERSION 60 )
