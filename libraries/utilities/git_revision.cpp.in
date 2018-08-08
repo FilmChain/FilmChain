@@ -1,0 +1,14 @@
+#include <stdint.h>
+#include <fcc/utilities/git_revision.hpp>
+
+#define MCCSHARES_GIT_REVISION_SHA "@BITSHARES_GIT_REVISION_SHA@"
+#define MCCSHARES_GIT_REVISION_UNIX_TIMESTAMP 1444732561
+#define MCCSHARES_GIT_REVISION_DESCRIPTION "@BITSHARES_GIT_REVISION_DESCRIPTION@"
+
+namespace mcc { namespace utilities {
+
+const char* const git_revision_sha = MCCSHARES_GIT_REVISION_SHA;
+const uint32_t git_revision_unix_timestamp = MCCSHARES_GIT_REVISION_UNIX_TIMESTAMP;
+const char* const git_revision_description = MCCSHARES_GIT_REVISION_DESCRIPTION;
+
+} } // end namespace mcc::utilities

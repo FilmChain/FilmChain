@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file>res/mccshares.png</file>
+    <file>res/spinner.gif</file>
+  </qresource>
+</RCC>

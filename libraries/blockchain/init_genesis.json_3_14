@@ -1,0 +1,163 @@
+{
+  "timestamp": "2017-12-29T04:21:59",
+  "market_assets": [],
+  "delegates": [{
+      "name": "init0",
+      "owner": "MCC5DGCZqmerduKxWFtPftsZ8vtiPn36JN1xL7ukjugpG5HXAMUNa"
+    },{
+      "name": "init1",
+      "owner": "MCC6pVupwqeZJJutwQmyahN7fZEitc7VzxBLu6Y4P5UGEDaDWHwKb"
+    },{
+      "name": "init2",
+      "owner": "MCC6R4YB8NQafEp3miodfr4YYgDqVJkmhfJQTGgtV93iZi3VdJfay"
+    },{
+      "name": "init3",
+      "owner": "MCC4w28sgvpcWfjUi7tLuCuQTxsRm4sW5DiA6en9dS1EFr3rhcV42"
+    },{
+      "name": "init4",
+      "owner": "MCC7XQhCPBcpnbCC3XMf7bnm6YT3AQ19hLVD1kgpgqzDYnMHFvG7M"
+    },{
+      "name": "init5",
+      "owner": "MCC65SF86KfctLHJjmoeargw8yCUNBLjVy1MAi7FTkqkXYWZmL8H8"
+    },{
+      "name": "init6",
+      "owner": "MCC61FJdZgMfMmzybfXy7DmYKiMwx5QMvivPXgoyc6PaXWZYEJghY"
+    },{
+      "name": "init7",
+      "owner": "MCC52daBTqWYt1mrHCanjgRta6HJXFmvSxREdDtV3JeuR45kihw25"
+    },{
+      "name": "init8",
+      "owner": "MCC8hpdizz3Bpgw97WsNr6CFMxTiWpAYR7UfcLNNU4SA9wEJsttUe"
+    },{
+      "name": "init9",
+      "owner": "MCC6jqbTfFZbWjc9vuGDLAu56D2z5Tr66UswJg5StPGD3gfixkb9q"
+    },{
+      "name": "init10",
+      "owner": "MCC5oUaJBy7TWrhMtNSEjWz2RjJjA9xeLhtBNidWuEVeGWSPQfHK9"
+    },{
+      "name": "init11",
+      "owner": "MCC8JRqNwHizA8Miw9n7uPPSqye3ZggZTZ8vC3wEcYua8Zd5WYXcN"
+    },{
+      "name": "init12",
+      "owner": "MCC4w9DMX1aE59s6w4E5aAzjDz2Vedum9sdJo4BQuifxN1cBJFEjk"
+    },{
+      "name": "init13",
+      "owner": "MCC6czCZf5uJtkyM7dVzf4Nn8dtgfVZEnBfCUrVCzTPLNEUUAXUWJ"
+    },{
+      "name": "init14",
+      "owner": "MCC6ZmWNXykNjJ68TxfsxbQmFmCqpckhQzU7SDM7zdvEAwNN9a2Dk"
+    },{
+      "name": "init15",
+      "owner": "MCC8kTwPLSkajGQXXEFqfRTL4x4zu1LuRFsgJcLNWDa2z9721X6Ba"
+    },{
+      "name": "init16",
+      "owner": "MCC7zs6PsCiVF6P8iV3mqh3A1hKojbfYv7KHKG2qtShdmwsTMbyBA"
+    },{
+      "name": "init17",
+      "owner": "MCC6z3gkAr54SV4o19f8jundvZ1uX7m9m7bdzfUeaEP4V9j1Um6DQ"
+    },{
+      "name": "init18",
+      "owner": "MCC5KQGsS5DyVV38o63gXtjSucGRdWKJDoCxDt3Zphd2anr5vPCzJ"
+    },{
+      "name": "init19",
+      "owner": "MCC7tjfFTSfWXMohmxoRNyr51gh4n6omsrzV5whY2SDn44rDkHF4A"
+    },{
+      "name": "init20",
+      "owner": "MCC6GYdhfnTsbC5j7yWrte5pLY9sucZRxoDEKQ4sVDmqP8J6dC2mJ"
+    },{
+      "name": "init21",
+      "owner": "MCC5aA7vpTtp4gniWTBNRzosSgFBTUqY462seBtSquq3w9t9Zx11u"
+    },{
+      "name": "init22",
+      "owner": "MCC54xZYws6rGEN1GnkcDsx2w3tnfCKY74AZTMQgSmWdLTT5UHuaH"
+    },{
+      "name": "init23",
+      "owner": "MCC7yHohGqHT4R4e6gWRJ5VwuCKFQ4ZgPvGZm2ZCPQP4QyBK3aoFn"
+    },{
+      "name": "init24",
+      "owner": "MCC7m4UQ1yEvn5kEmwsMyDGSShGcB4AR6wbt3DfgcSGTzmtcWCsg5"
+    }
+  ],
+  "initial_balances": [{
+      "raw_address": "MCC4D3wHPH1nrXFkAKms3MagkSUAKUJUXmQy",
+      "balance": "10000000000000"
+    },{
+      "raw_address": "MCCKwUBeXthhUEzUhHXcqhyb6W8rk7ALGBjo",
+      "balance": 0
+    },{
+      "raw_address": "MCC4Nu4vQYWEYSpzKxme59ucgpd2xYBwEiN2",
+      "balance": 0
+    },{
+      "raw_address": "MCC9fjSPNQjEFfGirMJZrsrZRSjZcofbwZL4",
+      "balance": 0
+    },{
+      "raw_address": "MCCN8WBV9yh693ftbczc4E2ZyQKHChQvPZY",
+      "balance": 0
+    },{
+      "raw_address": "MCCM2bubDxCfrN6LaMT3iA2GKbmJZdVyrtjB",
+      "balance": 0
+    },{
+      "raw_address": "MCC9r1YnM3dsnGX4jND9F4hhf4BLH9yK9J5U",
+      "balance": 0
+    },{
+      "raw_address": "MCCPCDcmF3B5PZAnPcucgNAQ79ygeVJyVuca",
+      "balance": 0
+    },{
+      "raw_address": "MCCDECQ2yrnPCtbUz3qyK34F87tCZ1Dq7b4H",
+      "balance": 0
+    },{
+      "raw_address": "MCCPGw6XN51v6VtHJhj763yPzDGmiX9CyNWZ",
+      "balance": 0
+    },{
+      "raw_address": "MCCJBCUacZqCGakw4kYr7F7KefBUEpsA7MKF",
+      "balance": 0
+    },{
+      "raw_address": "MCC611MV29xsJyn5gGcb8YXTj2sVzKqgFGmV",
+      "balance": 0
+    },{
+      "raw_address": "MCCCXQUm8JjiDj2Jg6TGmm7UqkyZRhPp4Mq9",
+      "balance": 0
+    },{
+      "raw_address": "MCCJBe8ymz9GwCgSUmQMVohS8Me4phtvy1Jn",
+      "balance": 0
+    },{
+      "raw_address": "MCCEWyUkpryLfci1jEUzKyyW1KZCcCGcYqac",
+      "balance": 0
+    },{
+      "raw_address": "MCC8oiZ5cNhZmuVYS13Q13gda3EB3nqUHzkz",
+      "balance": 0
+    },{
+      "raw_address": "MCC4wrWYNvhfXFXgCTKNVYaSj8g4KiS14kYu",
+      "balance": 0
+    },{
+      "raw_address": "MCCPs95UuPjFDrNmoUScXARADxXUR1uguZrM",
+      "balance": 0
+    },{
+      "raw_address": "MCC7Tif9bxY6xx2zRCQhzMfDET2E8T8Qsdfe",
+      "balance": 0
+    },{
+      "raw_address": "MCC7EyzBBHyKmRBpTUVYLFBCQtD43zthk74j",
+      "balance": 0
+    },{
+      "raw_address": "MCCLD9pb4rY4n7vz9RgbPvqy5i7xqLtJwMmM",
+      "balance": 0
+    },{
+      "raw_address": "MCCmqcTDz3VXjhBKGydztxbm6DwM915XECk",
+      "balance": 0
+    },{
+      "raw_address": "MCCDDHjaUCcGFaNXxeCUmaXuNZ1gPi6bUDi9",
+      "balance": 0
+    },{
+      "raw_address": "MCC8ygM4BjfawqP1zzra4koopHHeZmfWnaPy",
+      "balance": 0
+    },{
+      "raw_address": "MCCDqRRSmok73VP3rHvu3hr3tvTzp3VYXW44",
+      "balance": 0
+    }
+  ],
+  "sharedrop_balances": {
+    "start_time": "1970-01-01T00:00:00",
+    "duration_days": 0,
+    "vesting_balances": []
+  }
+}
